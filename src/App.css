@@ -1,0 +1,15 @@
+.main {
+  display: flex;
+  flex-direction: column;
+  gap: 1em;
+}
+
+.main__title {
+  color: var(--title-colors);
+}
+
+.main__list-cards {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5em;
+}

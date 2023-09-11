@@ -1,0 +1,33 @@
+:root {
+  --body-color: #000000;
+  --body-card-container: #16181c;
+  --title-colors: #e7e9ea;
+  --text-color: #6b7074;
+  --text-button-color: #0f1419;
+  --bg-buttons: #eff3f4;
+}
+
+/* Reset styles */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+button {
+  border: none;
+  background: none;
+  cursor: pointer;
+}
+
+body {
+  background-color: var(--body-color);
+  font-family: system-ui, sans-serif;
+}
+
+#root {
+  display: grid;
+  place-items: center;
+  width: 100%;
+  height: 100vh;
+}
