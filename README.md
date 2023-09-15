@@ -1,4 +1,4 @@
-# NavBar
+# TwitterCard
 
 Este proyecto presenta la sección de twitter "A quien seguir". Se uso la metodología BEM para una estructura de estilos más organizada y escalable. Las tecnologías utilizadas en su creación son Vite, TypesScript, React, JSX y CSS.
 
